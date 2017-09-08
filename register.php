@@ -32,6 +32,7 @@
                         <input class="uk-input" id="form-stacked-text" type="password" required="required" placeholder="请输入您的密码">
                     </div>
                 </div>
+                <div class="uk-margin uk-alert uk-alert-danger js-error" style="display:none"></div>
                 <div class="uk-margin">
                     <button class="uk-button uk-button-default" type="submit">注册</button>
                 </div>
